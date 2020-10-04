@@ -2,7 +2,7 @@
 
 ## Description
 
-In this challenge we will be building basic ORM functionallity base on Sequelize usin mysql2
+I11n this challenge we will be building basic ORM functionallity base on Sequelize usin mysql2
 
 --- 
 
